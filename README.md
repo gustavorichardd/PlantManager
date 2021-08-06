@@ -1,5 +1,5 @@
 Desenvolvido durante a 5ª Next Level week da RocketSeat, o PlantManager é um aplicativo com alermes para você lembrar de regar as plantinhas que você tem em casa.
-Além do alarme, é possível também alterar o horário dos lembretes pré definidos, caos você precise mudar o horário no qual vai regar elas.
+Além do alarme, é possível também alterar o horário dos lembretes pré definidos, caso você precise mudar o horário no qual vai regar elas.
 
 Utilização de EXPO no desenvolvimento em React Native.
 
